@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "forumName": "SG Current Affairs",
+    "forumImageUrl":  "https://via.placeholder.com/50/0000FF",
+    "locationFlagUrl": "https://via.placeholder.com/30/001111",
+    "title": "2020 Singapore Covid-19 Continuous Updating",
+    "content": "As of 18 Jan 2021, 12pm, MOH has preliminarily confirmed 2 new cases of locally transmitted COVID-19 infection. Based on investigations so far, the cases are in the community, and there are no new cases in the dormitories. There are 12 imported cases who had already been placed on Stay-Home Notice or isolated upon arrival in Singapore. In total, there are 14 new cases of COVID-19 infection in Singapore today. MOH will share further updates in its press release that will be issued later tonight.",
+    "imageUrls": ["https://www.straitstimes.com/sites/default/files/styles/article_pictrure_780x520_/public/articles/2021/01/19/md-moh2-190121.jpg?itok=ZXPJAL2s&timestamp=1611044229"],
+    "like": 3245,
+    "comment": 12,
+    "view": 12343
+  },
+  {
+    "id": 1,
+    "forumName": "NUS Treehole",
+    "forumImageUrl": "https://via.placeholder.com/50/0aa0FF",
+    "locationFlagUrl": "https://via.placeholder.com/30/001211",
+    "title": "Best Hall of Residence to Start Uni Life",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus sed nibh quis tincidunt. Sed sagittis dictum pellentesque. Proin malesuada dolor ut tellus finibus sodales. Morbi ornare eget dui in condimentum. Phasellus justo nibh, congue vel mollis at, porta tempor nisl. Fusce ut ipsum et mauris tempor luctus. Cras ipsum tortor, accumsan viverra molestie condimentum, condimentum eu leo.",
+    "imageUrls": ["https://s3.eu-west-1.amazonaws.com/presspage-production-content/uploads/2580/trees-3-155666.jpg", "https://via.placeholder.com/850/0aa0FF"],
+    "like": 325,
+    "comment": 121,
+    "view": 11243
+  },
+  {
+    "id": 2,
+    "forumName": "Green finger",
+    "forumImageUrl":"https://via.placeholder.com/50/00123F",
+    "locationFlagUrl": "https://via.placeholder.com/30/045111",
+    "title": "Gardening for Herbs",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus sed nibh quis tincidunt. Sed sagittis dictum pellentesque. Proin malesuada dolor ut tellus finibus sodales. Morbi ornare eget dui in condimentum. Phasellus justo nibh, congue vel mollis at, porta tempor nisl. Fusce ut ipsum et mauris tempor luctus. Cras ipsum tortor, accumsan viverra molestie condimentum, condimentum eu leo.",
+    "imageUrls": ["https://d1hy6t2xeg0mdl.cloudfront.net/image/2938/7487debf26/standard-nofill"],
+    "like": 45,
+    "comment": 124,
+    "view": 1343
+  },
+  {
+    "id": 3,
+    "forumName": "Big Foodie",
+    "forumImageUrl": "https://via.placeholder.com/50/0330AA",
+    "locationFlagUrl": "https://via.placeholder.com/30/003111",
+    "title": "Where to Find the Best Chicken Chop in Singapore?",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus sed nibh quis tincidunt. Sed sagittis dictum pellentesque. Proin malesuada dolor ut tellus finibus sodales. Morbi ornare eget dui in condimentum. Phasellus justo nibh, congue vel mollis at, porta tempor nisl. Fusce ut ipsum et mauris tempor luctus. Cras ipsum tortor, accumsan viverra molestie condimentum, condimentum eu leo.",
+    "imageUrls": ["https://d2wtgwi3o396m5.cloudfront.net/recipe/bf2ae123-0553-4605-a564-e790d69d29fb.jpg"],
+    "like": 35,
+    "comment": 129,
+    "view": 1243
+  },
+  {
+    "id": 4,
+    "forumName": "Hobby Lovers",
+    "forumImageUrl": "https://via.placeholder.com/50/0330FF",
+    "locationFlagUrl": "https://via.placeholder.com/30/001781",
+    "title": "Gundam Modelling Course",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus sed nibh quis tincidunt. Sed sagittis dictum pellentesque. Proin malesuada dolor ut tellus finibus sodales. Morbi ornare eget dui in condimentum. Phasellus justo nibh, congue vel mollis at, porta tempor nisl. Fusce ut ipsum et mauris tempor luctus. Cras ipsum tortor, accumsan viverra molestie condimentum, condimentum eu leo.",
+    "imageUrls": ["https://s3-ap-northeast-1.amazonaws.com/psh-ex-ftnikkei-3937bb4/images/6/5/3/0/23520356-1-eng-GB/20191115-Gundam-img.png"],
+    "like": 45,
+    "comment": 1,
+    "view": 343
+  }
+]
